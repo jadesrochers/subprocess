@@ -1,0 +1,17 @@
+{
+    "name": "@jadesrochers/subprocess",
+    "version": "0.1.0",
+    "license": "Apache-2.0",
+    "author": "Jared Desrochers",
+    "repository": "",
+    "description": "Run shell commands using exec",
+    "main": "subprocess.js",
+    "keywords": [],
+    "dependencies": {},
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^24.5.0"
+    }
+}
