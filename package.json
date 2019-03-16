@@ -8,6 +8,10 @@
     "main": "subprocess.js",
     "keywords": [],
     "dependencies": {},
+    "repository":{
+        "type":"git",
+	"url": "https://github.com/jadesrochers/subprocess.git"
+    },
     "scripts": {
         "test": "jest"
     },
