@@ -15,7 +15,7 @@ Set up some commands.
 ```javascript
 let comm1 = "head -n 1 /path/to/original.txt"
 let comm2 = "cd /path/to/dir && rm -r dirname/*"
-led comm3 = docker build -f Dockerfile-nginxtest -t repo/name:tag . && docker push repo/name:tag"
+let comm3 = "docker build -f Dockerfile-test -t repo/name:tag . && docker push repo/name:tag"
 ```
 
 Run the commands. Save the output if you need it.
