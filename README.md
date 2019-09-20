@@ -8,7 +8,7 @@ the text of what you want to run.
 ## installation 
 npm install @jadesrochers/subprocess  
 
-const check = require('@jadesrochers/subprocess')  
+const subp = require('@jadesrochers/subprocess')  
 
 ## Usage
 Set up some commands.
